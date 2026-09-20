@@ -50,7 +50,7 @@ The dashboard can be used to understand:
 The dashboard provides interactive filtering options that allow users to analyze the data based on available years and sales channels.
 
 Documentation/
-└── Adidas Sales Analysis Dashboard.pdf
+└── Adidas Sales Analytics Dashboard.pdf
 
 ## 👨‍💻 Skills Demonstrated
 * Data Cleaning
