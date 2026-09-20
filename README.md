@@ -67,6 +67,4 @@ The dashboard provides interactive filtering options that allow users to analyze
 The Adidas Sales Analysis Dashboard provides an interactive way to monitor sales, profit, product, regional, retailer, and channel performance and supports data-driven business analysis.
 
 ## Author
-Pankaj Shinde
-
-The Adidas Sales Analysis Dashboard provides an interactive way to monitor sales, profit, product, regional, retailer, and channel performance and supports data-driven business analysis.
+Pankaj Shinde.
